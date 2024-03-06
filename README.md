@@ -1,7 +1,7 @@
 
 # Hola, soy Nicolas Pontis Ledda! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy cocinero profesional, con especialización en análisis de datos y machine learning. 
+¡Bienvenido a mi perfil de GitHub! Soy data scientist, con especialización en análisis de datos y machine learning. 
 Me apasiona entender y solucionar problemas y con ello, brindar soluciones concretas, utilizando datos y técnicas específicas. 
 
 ## Acerca de mí
